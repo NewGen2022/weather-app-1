@@ -14,6 +14,6 @@
   <h2>App preview</h2>
 </div>
 
-![Here you can see app preview](https://github.com/NewGen2022/portfolio_WeatherApp/blob/main/App_example.png)
+![Here you can see app preview]()
 
 **This site was built using [GitHub Pages](https://pages.github.com/).**
