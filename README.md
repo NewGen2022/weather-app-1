@@ -8,7 +8,7 @@
 
  ***Use the LIVE SERVER extension in VS Code***
 
- ***Or visit [WeatherApp on GitHub Pages](https://newgen2022.github.io/WeatherApp1/)***
+ ***Or visit [WeatherApp on GitHub Pages](https://newgen2022.github.io/weather-app-1/)***
 
 <div align="center">
   <h2>App preview</h2>
