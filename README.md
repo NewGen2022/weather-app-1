@@ -8,6 +8,6 @@
 
 --- *Or visit [WeatherApp on GitHub Pages](https://newgen2022.github.io/portfolio_WeatherApp/)*
 
-👾![Here you can see app preview](https://github.com/NewGen2022/portfolio_WeatherApp/blob/main/App_example.png)
+![Here you can see app preview](https://github.com/NewGen2022/portfolio_WeatherApp/blob/main/App_example.png)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
